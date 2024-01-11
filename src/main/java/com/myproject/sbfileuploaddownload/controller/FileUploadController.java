@@ -1,5 +1,8 @@
-package com.myproject.sbfileuploaddownload.domain;
+package com.myproject.sbfileuploaddownload.controller;
 
+import com.myproject.sbfileuploaddownload.dto.FileUploadResponse;
+import com.myproject.sbfileuploaddownload.model.FileUpload;
+import com.myproject.sbfileuploaddownload.service.FileUploadService;
 import lombok.AllArgsConstructor;
 import org.springframework.core.io.ByteArrayResource;
 import org.springframework.core.io.Resource;
