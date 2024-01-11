@@ -1,4 +1,4 @@
-package com.myproject.sbfileuploaddownload.domain;
+package com.myproject.sbfileuploaddownload.dto;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;

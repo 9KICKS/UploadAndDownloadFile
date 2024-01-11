@@ -1,5 +1,7 @@
-package com.myproject.sbfileuploaddownload.domain;
+package com.myproject.sbfileuploaddownload.service;
 
+import com.myproject.sbfileuploaddownload.model.FileUpload;
+import com.myproject.sbfileuploaddownload.repository.FileUploadRepository;
 import lombok.AllArgsConstructor;
 import org.springframework.stereotype.Service;
 import org.springframework.util.StringUtils;
