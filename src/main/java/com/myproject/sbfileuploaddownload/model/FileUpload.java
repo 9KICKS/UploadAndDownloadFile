@@ -1,4 +1,4 @@
-package com.myproject.sbfileuploaddownload.domain;
+package com.myproject.sbfileuploaddownload.model;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;
